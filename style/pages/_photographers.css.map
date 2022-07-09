@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,MAAM,CACL,gBAAgB,CAAE,MAAM,CAGzB,cAAc,CACb,gBAAgB,CAAE,MAAM,CAcvB,wCAAS,CACR,gBAAgB,CAAE,kDAAkD",
+"sources": ["_photographers.scss"],
+"names": [],
+"file": "_photographers.css"
+}
