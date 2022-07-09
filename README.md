@@ -47,5 +47,4 @@ Environnement de travail :
 		Es lint.
 		La plateforme GitHub Pages.
 
-Lien pour consulter le site : 
-à venir
+Lien pour consulter le site : https://gilbrou.github.io/PICme/
